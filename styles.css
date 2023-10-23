@@ -10,6 +10,7 @@
 
 }
 
+/* this is the header */
 header {
   text-align: center;
   margin: 0;
@@ -39,6 +40,8 @@ img {
   width: 100%;
   height: inherit;
 }
+
+/* this is the footer section */
 
 footer {
   text-align: center;
